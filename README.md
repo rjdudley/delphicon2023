@@ -1,2 +1,2 @@
-# delphicon2023
-Demo repo for Delphicon
+# Hello, world!
+This is a demo for Delphicon 2023.  Hope everyone is learning something awesome.
